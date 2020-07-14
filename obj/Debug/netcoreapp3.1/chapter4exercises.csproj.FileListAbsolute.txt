@@ -1,0 +1,13 @@
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\bin\Debug\netcoreapp3.1\chapter4exercises.exe
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\bin\Debug\netcoreapp3.1\chapter4exercises.deps.json
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\bin\Debug\netcoreapp3.1\chapter4exercises.runtimeconfig.json
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\bin\Debug\netcoreapp3.1\chapter4exercises.runtimeconfig.dev.json
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\bin\Debug\netcoreapp3.1\chapter4exercises.dll
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\bin\Debug\netcoreapp3.1\chapter4exercises.pdb
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\obj\Debug\netcoreapp3.1\chapter4exercises.csprojAssemblyReference.cache
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\obj\Debug\netcoreapp3.1\chapter4exercises.AssemblyInfoInputs.cache
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\obj\Debug\netcoreapp3.1\chapter4exercises.AssemblyInfo.cs
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\obj\Debug\netcoreapp3.1\chapter4exercises.csproj.CoreCompileInputs.cache
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\obj\Debug\netcoreapp3.1\chapter4exercises.dll
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\obj\Debug\netcoreapp3.1\chapter4exercises.pdb
+C:\Users\Newforce.NEWFORCE-015\workspace\c#\book1\chapter4exercises\obj\Debug\netcoreapp3.1\chapter4exercises.genruntimeconfig.cache

@@ -20,8 +20,25 @@ namespace chapter4exercises
             
 
             planetList.AddRange(planetList2);
+            planetList.Insert(1 , "Venus");
+            planetList.Insert(2 , "Earth");
+            planetList.Add("Pluto");
 
             planetList.ForEach(planetList => Console.WriteLine(planetList));
+
+            Console.WriteLine("\noutput = planetList.GetRange(0, 4).ToArray()");
+            string[] output = planetList.GetRange(0, 4).ToArray();
+
+            Console.WriteLine();
+            foreach( string rockyPlanet in output){
+                Console.WriteLine(rockyPlanet);
+            };
+
+            planetList.Remove("Pluto");
+             planetList.ForEach(planetList => Console.WriteLine(planetList));
+            
+
+            
         }
     }
 }
